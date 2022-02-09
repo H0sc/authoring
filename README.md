@@ -13,10 +13,11 @@ Spalte 1|Spalte 2|Spalte 3
 
 #### [Externer Link](www.google.com)
 
-#### ![Interner Link](/Workspace/authoring/images/timon_in_zueri)
+#### [Interner Link](./image)
 
 #### Bilder
 ![bild](./image/timon_in_zueri.jpg)
+
 #### Emojis
 
 :sparkles: :boxing_glove: :nerd_face:
