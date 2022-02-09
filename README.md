@@ -1,2 +1,25 @@
 # authoring
-authoring
+## Markdown mit Github Geschmack
+## [X] [**externer-link**](#externer-link)
+## [X] [**Interner Link**](#interner-link)
+## [X] [**Bilder**](#Bild einfügen)
+## [X] [**Emojis**](#emojis einfügen)
+
+Spalte 1|Spalte 2|Spalte 3
+--------|--------|--------|
+    A   |    B   |    E
+    C   |    D   |    F   
+
+## Externer Link(www.google.com)
+
+## Interner Link(/Workspace/authoring/images/timon_in_zueri)
+
+:sparkles: :boxing_glove: :nerd_face:
+
+Name    |Klasse  |lvl 
+--------|--------|--------|
+Timon   |D02 WD 22    |napf   
+Max   |   23   |   Pro-WebDev
+
+    
+
