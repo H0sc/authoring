@@ -6,10 +6,10 @@
 3. [X] [**Bilder**](#bilder)
 4. [X] [**Emojis**](#emojis)
 
-Spalte 1|Spalte 2|Spalte 3
-        |        |
-    A   |    B   |    E
-    C   |    D   |    F   
+|Spalte 1|Spalte 2|Spalte 3|
+|--------|--------|--------|
+|    A   |    B   |    E   |
+|    C   |    D   |    F   |
 
 #### [Externer Link](www.google.com)
 
